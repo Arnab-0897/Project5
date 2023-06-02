@@ -1,7 +1,5 @@
-Web app link: http://ab449fdb57e6541f18a595a6c6b82e87-487430505.us-east-2.elb.amazonaws.com/
+Web app link: http://a57fb4c5a2c3b4af0bc5debf611df5d5-1554424007.us-east-1.elb.amazonaws.com/
 
-CIRCLECI Link : https://app.circleci.com/pipelines/github/KapilsRepo/Capstone-proj5
+CIRCLECI Link : https://app.circleci.com/pipelines/github/Arnab-0897/Project5/6/workflows/860682b6-f954-4066-a1a3-30a35c39fbaa
 
-GITHUB Link : https://github.com/KapilsRepo/Capstone-proj5
-
-DOCKERHUB Link : https://hub.docker.com/repository/docker/kapmydock23/kapilscaps
+GITHUB Link : https://github.com/Arnab-0897/Project5
