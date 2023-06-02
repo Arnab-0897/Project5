@@ -11,7 +11,7 @@ LOG.info(f"Entered the Process ")
 @app.route('/')
 def home():
     LOG.info(f"Entered the Home Function ")
-        html = f"<h3>Hello World, my name is Arnab Chatterjee</h3>"
+    html = f"<h3>Hello World, my name is Arnab Chatterjee</h3>"
     return html.format(format)
 
 if __name__ == '__main__':
